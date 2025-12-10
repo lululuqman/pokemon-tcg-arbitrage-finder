@@ -1,0 +1,33 @@
+# Core
+pandas
+numpy
+python-dotenv
+
+# Apify
+apify-client
+
+# Database
+sqlalchemy
+
+# Pokemon TCG API
+pokemontcgsdk
+
+# Web scraping backup
+requests
+beautifulsoup4
+
+# Data processing
+rapidfuzz
+
+# Scheduling
+APScheduler
+
+# Streamlit & Visualization
+streamlit
+plotly
+
+# AI
+groq
+
+# Development
+pytest
